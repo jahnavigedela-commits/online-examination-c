@@ -1,0 +1,89 @@
+
+===== ONLINE EXAM SYSTEM =====
+1. Teacher
+2. Student
+0. Exit
+Enter choice: 1
+
+--- TEACHER MENU ---
+1. Add Subject
+2. Set Timer (30 min)
+3. Set Negative Marking (-0.25)
+4. Add Question
+5. Remove Question
+6. View Questions
+0. Back
+Enter choice: 1
+Enter subject name: C++
+Subject added!
+
+--- TEACHER MENU ---
+1. Add Subject
+2. Set Timer (30 min)
+3. Set Negative Marking (-0.25)
+4. Add Question
+5. Remove Question
+6. View Questions
+0. Back
+Enter choice: 4
+
+--- SUBJECTS ---
+1. C++
+Select subject: 1
+
+Enter question text:
+> what is the default access specifier for members of a class in C++?
+Option A: public
+Option B: private
+Option C: protected
+Option D: ALL the above
+Correct option (A/B/C/D): A
+Enter marks for this question: 4
+Question added!
+
+--- TEACHER MENU ---
+1. Add Subject
+2. Set Timer (30 min)
+3. Set Negative Marking (-0.25)
+4. Add Question
+5. Remove Question
+6. View Questions
+0. Back
+Enter choice: 0
+
+===== ONLINE EXAM SYSTEM =====
+1. Teacher
+2. Student
+0. Exit
+Enter choice: 2
+
+--- SUBJECTS ---
+1. C++
+Select subject: 1
+
+Exam: C++
+Time limit: 30 minutes
+Negative marking: -0.25
+Press ENTER to start...
+
+Q1) what is the default access specifier for members of a class in C++?
+A) public
+B) private
+C) protected
+D) ALL the above
+Enter answer (A/B/C/D) or S to Skip: A
+
+----- RESULT -----
+Correct: 1
+Wrong: 0
+Final Score: 4
+
+===== ONLINE EXAM SYSTEM =====
+1. Teacher
+2. Student
+0. Exit
+Enter choice: 0
+Goodbye!
+
+
+=== Code Execution Successful ===
